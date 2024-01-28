@@ -2,7 +2,7 @@ const siteConfig = {
   name: 'Clay',
   shortName: 'Clay',
   description: 'Clay - Personal Gatsby Theme',
-  url: '/', // Domain of your site without prefix!
+  url: 'https://neschko-clay.netlify.app', // Domain of your site without prefix!
   prefix: '/',
   author: 'Travis Lord & Abdul Waqar',
   twitter: '' ,
